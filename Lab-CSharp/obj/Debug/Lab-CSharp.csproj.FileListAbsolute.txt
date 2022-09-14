@@ -1,0 +1,8 @@
+/Users/tranbaonguyen/Lab-CSharp/Lab-CSharp/bin/Debug/Lab_CSharp.exe
+/Users/tranbaonguyen/Lab-CSharp/Lab-CSharp/bin/Debug/Lab_CSharp.pdb
+/Users/tranbaonguyen/Lab-CSharp/Lab-CSharp/obj/Debug/Lab-CSharp.csproj.AssemblyReference.cache
+/Users/tranbaonguyen/Lab-CSharp/Lab-CSharp/obj/Debug/Lab-CSharp.csproj.CoreCompileInputs.cache
+/Users/tranbaonguyen/Lab-CSharp/Lab-CSharp/obj/Debug/Lab_CSharp.exe
+/Users/tranbaonguyen/Lab-CSharp/Lab-CSharp/obj/Debug/Lab_CSharp.pdb
+/Users/tranbaonguyen/Lab-CSharp/Lab-CSharp/bin/Debug/MpzMail.Api.dll
+/Users/tranbaonguyen/Lab-CSharp/Lab-CSharp/obj/Debug/Lab-CSharp.csproj.CopyComplete
